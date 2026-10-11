@@ -1,10 +1,8 @@
-## Hi there 👋
+O Labafero é um espaço para criar produtos digitais, desenhar experiências e testar novas formas de expressão.
 
-**Here are some ideas to get you started:**
+_Cada projeto abre uma pergunta diferente — e uma oportunidade de construir algo com intenção._
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+- ✨ Design de interface
+- 👷 Desenvolvimento web
+- 📦️ Experimentações sonoras
+- 💥 Caos
